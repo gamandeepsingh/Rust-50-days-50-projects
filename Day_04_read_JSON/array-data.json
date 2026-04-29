@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Techie Ghost",
+        "age": 22,
+        "is_dev": true,
+        "city": "Rust land"
+    },
+    {
+        "name": "Rustacean",
+        "age": 21,
+        "is_dev": true
+    },
+    {
+        "name": "Jane Doe",
+        "age": 21,
+        "is_dev": false
+    }
+]
