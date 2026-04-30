@@ -12,5 +12,6 @@ Short Rust practice projects, one per day.
 | 04 | [Read JSON](Day_04_read_JSON/) | Deserialize JSON into Rust structs. |
 | 05 | [Write JSON](Day_05_write_JSON/) | Serialize Rust structs into JSON. |
 | 06 | [GET Request](Day_06_GET_request/) | Send an HTTP GET request and parse JSON. |
+| 07 | [Async Await](Day_07_Async_Await/) | Fetch multiple URLs concurrently with async/await. |
 
 
