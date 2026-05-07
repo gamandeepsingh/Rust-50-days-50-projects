@@ -15,5 +15,6 @@ Short Rust practice projects, one per day.
 | 07 | [Async Await](Day_07_Async_Await/) | Fetch multiple URLs concurrently with async/await. |
 | 08 | [API Calls (CRUD)](Day_08_API_CALLS_CRUD/) | Demonstrate GET/POST/UPDATE/DELETE CLI API calls. |
 | 09 | [Axum](Day_09_Axum/) | Build a simple in-memory todo API with Axum. |
+| 10 | [Authentication](Day_10_Authentication/) | JWT-based user authentication with register/login endpoints. |
 
 
